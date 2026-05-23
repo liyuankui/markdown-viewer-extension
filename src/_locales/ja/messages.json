@@ -384,7 +384,7 @@
     "description": "Title for recent files section"
   },
   "remark_add_note": {
-    "message": "注釈を追加…",
+    "message": "メモを追加…",
     "description": "Placeholder for the note input in the annotation popup and sidebar"
   },
   "remark_all_cleared": {
@@ -392,7 +392,7 @@
     "description": "Temporary success state after clearing all remarks"
   },
   "remark_cancel": {
-    "message": "取り消して削除",
+    "message": "キャンセル",
     "description": "Cancel button in the annotation popup"
   },
   "remark_clear_all": {
@@ -404,7 +404,7 @@
     "description": "Label for the blue annotation color"
   },
   "remark_color_green": {
-    "message": "保持",
+    "message": "維持",
     "description": "Label for the green annotation color"
   },
   "remark_color_pink": {
@@ -420,15 +420,15 @@
     "description": "Feedback shown after remarks are successfully copied"
   },
   "remark_copy_btn": {
-    "message": "注釈をコピー",
+    "message": "コメントをコピー",
     "description": "Button label to copy all remarks to clipboard and exit Remark Mode"
   },
   "remark_copy_failed": {
-    "message": "コピーに失敗しました",
+    "message": "コピー失敗",
     "description": "Feedback shown when copying remarks fails"
   },
   "remark_copy_tooltip": {
-    "message": "すべての注釈をクリップボードにコピー",
+    "message": "すべてのコメントをクリップボードにコピーし、コメントモードを終了します",
     "description": "Tooltip for the Copy remarks button"
   },
   "remark_delete": {
@@ -443,12 +443,16 @@
     "message": "クリックして編集",
     "description": "Tooltip on a remark note in the sidebar indicating it is editable"
   },
+  "remark_empty": {
+    "message": "テキストを選択してコメントを追加",
+    "description": "Placeholder shown in sidebar when no remarks exist"
+  },
   "remark_empty_hint": {
     "message": "テキストを選択して注釈を追加",
     "description": "Empty state hint in the remarks sidebar"
   },
   "remark_exit_mode": {
-    "message": "注釈モードを終了",
+    "message": "コメントモードを終了",
     "description": "Toolbar button tooltip to exit Remark Mode"
   },
   "remark_export_intro": {
@@ -460,11 +464,15 @@
     "description": "Label preceding the note text in exported remarks"
   },
   "remark_mode": {
-    "message": "注釈モード",
+    "message": "コメントモード",
     "description": "Toolbar button tooltip to enter Remark Mode"
   },
+  "remark_save": {
+    "message": "保存する",
+    "description": "Save button in the annotation popup"
+  },
   "remark_sidebar_title": {
-    "message": "注釈",
+    "message": "コメント",
     "description": "Title of the Remark Mode sidebar panel"
   },
   "remark_undo": {

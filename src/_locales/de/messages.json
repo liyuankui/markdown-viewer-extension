@@ -384,7 +384,7 @@
     "description": "Title for recent files section"
   },
   "remark_add_note": {
-    "message": "Anmerkung hinzufügen…",
+    "message": "Notiz hinzufügen…",
     "description": "Placeholder for the note input in the annotation popup and sidebar"
   },
   "remark_all_cleared": {
@@ -392,7 +392,7 @@
     "description": "Temporary success state after clearing all remarks"
   },
   "remark_cancel": {
-    "message": "Abbrechen und entfernen",
+    "message": "Abbrechen",
     "description": "Cancel button in the annotation popup"
   },
   "remark_clear_all": {
@@ -424,11 +424,11 @@
     "description": "Button label to copy all remarks to clipboard and exit Remark Mode"
   },
   "remark_copy_failed": {
-    "message": "Kopieren fehlgeschlagen",
+    "message": "Fehler",
     "description": "Feedback shown when copying remarks fails"
   },
   "remark_copy_tooltip": {
-    "message": "Alle Anmerkungen in die Zwischenablage kopieren",
+    "message": "Alle Anmerkungen in die Zwischenablage kopieren und den Anmerkungsmodus beenden",
     "description": "Tooltip for the Copy remarks button"
   },
   "remark_delete": {
@@ -440,8 +440,12 @@
     "description": "Status label shown after a remark is deleted"
   },
   "remark_edit_note": {
-    "message": "Klicken zum Bearbeiten",
+    "message": "Zum Bearbeiten klicken",
     "description": "Tooltip on a remark note in the sidebar indicating it is editable"
+  },
+  "remark_empty": {
+    "message": "Text auswählen, um Anmerkungen hinzuzufügen",
+    "description": "Placeholder shown in sidebar when no remarks exist"
   },
   "remark_empty_hint": {
     "message": "Text auswählen, um Anmerkungen hinzuzufügen",
@@ -462,6 +466,10 @@
   "remark_mode": {
     "message": "Anmerkungsmodus",
     "description": "Toolbar button tooltip to enter Remark Mode"
+  },
+  "remark_save": {
+    "message": "Speichern",
+    "description": "Save button in the annotation popup"
   },
   "remark_sidebar_title": {
     "message": "Anmerkungen",

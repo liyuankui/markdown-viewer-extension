@@ -384,7 +384,7 @@
     "description": "Title for recent files section"
   },
   "remark_add_note": {
-    "message": "Añadir una observación…",
+    "message": "Añadir nota…",
     "description": "Placeholder for the note input in the annotation popup and sidebar"
   },
   "remark_all_cleared": {
@@ -392,7 +392,7 @@
     "description": "Temporary success state after clearing all remarks"
   },
   "remark_cancel": {
-    "message": "Cancelar y quitar",
+    "message": "Cancelar",
     "description": "Cancel button in the annotation popup"
   },
   "remark_clear_all": {
@@ -420,15 +420,15 @@
     "description": "Feedback shown after remarks are successfully copied"
   },
   "remark_copy_btn": {
-    "message": "Copiar observaciones",
+    "message": "Copiar anotaciones",
     "description": "Button label to copy all remarks to clipboard and exit Remark Mode"
   },
   "remark_copy_failed": {
-    "message": "Error al copiar",
+    "message": "Error",
     "description": "Feedback shown when copying remarks fails"
   },
   "remark_copy_tooltip": {
-    "message": "Copiar todas las observaciones al portapapeles",
+    "message": "Copiar todas las anotaciones al portapapeles y salir del modo anotación",
     "description": "Tooltip for the Copy remarks button"
   },
   "remark_delete": {
@@ -443,12 +443,16 @@
     "message": "Haz clic para editar",
     "description": "Tooltip on a remark note in the sidebar indicating it is editable"
   },
+  "remark_empty": {
+    "message": "Selecciona texto para añadir anotaciones",
+    "description": "Placeholder shown in sidebar when no remarks exist"
+  },
   "remark_empty_hint": {
     "message": "Selecciona texto para añadir observaciones",
     "description": "Empty state hint in the remarks sidebar"
   },
   "remark_exit_mode": {
-    "message": "Salir del modo de observaciones",
+    "message": "Salir del modo anotación",
     "description": "Toolbar button tooltip to exit Remark Mode"
   },
   "remark_export_intro": {
@@ -460,11 +464,15 @@
     "description": "Label preceding the note text in exported remarks"
   },
   "remark_mode": {
-    "message": "Modo de observaciones",
+    "message": "Modo anotación",
     "description": "Toolbar button tooltip to enter Remark Mode"
   },
+  "remark_save": {
+    "message": "Guardar",
+    "description": "Save button in the annotation popup"
+  },
   "remark_sidebar_title": {
-    "message": "Observaciones",
+    "message": "Anotaciones",
     "description": "Title of the Remark Mode sidebar panel"
   },
   "remark_undo": {
